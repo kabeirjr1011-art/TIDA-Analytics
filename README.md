@@ -2,6 +2,10 @@
 
 Classifies a news headline/article into one of 7 categories: Business, Entertainment, Lifestyle, National, Sports, Technology, World.
 
+**Authors:** Kabir, Vignesh
+
+**GitHub:** [kabeirjr1011-art/TIDA-Analytics](https://github.com/kabeirjr1011-art/TIDA-Analytics)
+
 **Live app:** `<paste your Streamlit URL here>`
 
 ## Files

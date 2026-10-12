@@ -1,6 +1,6 @@
 # Project Report — News Classification Model
 
-**Course:** TIDA — Assignment 2  |  **Student:** Kabeir  |  **GitHub:** `<repo URL>`  |  **Live app:** `<Streamlit URL>`
+**Course:** TIDA — Assignment 2  |  **Student:** Kabeir  |  **GitHub:** [kabeirjr1011-art/TIDA-Analytics](https://github.com/kabeirjr1011-art/TIDA-Analytics)  |  **Live app:** `<Streamlit URL>`
 
 ## 1. Objective
 Build, evaluate and deploy a supervised machine-learning pipeline that automatically assigns a news article to a topic category (raw text → preprocessing → feature representation → model → evaluation → deployment).
