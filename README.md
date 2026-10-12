@@ -6,7 +6,7 @@ Classifies a news headline/article into one of 7 categories: Business, Entertain
 
 **GitHub:** [kabeirjr1011-art/TIDA-Analytics](https://github.com/kabeirjr1011-art/TIDA-Analytics)
 
-**Live app:** `<paste your Streamlit URL here>`
+**Live app:** <https://tida-analyticsgit-fdhp4tm3yje6vy8tdvrzm6.streamlit.app>
 
 ## Files
 | File | Purpose |
