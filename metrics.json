@@ -1,0 +1,28 @@
+{
+  "best_model": "Linear SVM",
+  "results": {
+    "Naive Bayes": {
+      "accuracy": 0.7901904761904762,
+      "macro_f1": 0.7899505126833736
+    },
+    "Logistic Regression": {
+      "accuracy": 0.7929047619047619,
+      "macro_f1": 0.7929622220752134
+    },
+    "Linear SVM": {
+      "accuracy": 0.8022380952380952,
+      "macro_f1": 0.801961641674463
+    }
+  },
+  "labels": [
+    "Business",
+    "Entertainment",
+    "Lifestyle",
+    "National",
+    "Sports",
+    "Technology",
+    "World"
+  ],
+  "n_train": 84000,
+  "n_test": 21000
+}
